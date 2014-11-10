@@ -1,0 +1,22 @@
+body {
+	width: 100vw;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+	background-image: url('tiger.jpg');
+	background-size: cover;
+	background-repeat: none;
+}
+
+#hello {
+	font-size: 12vw;
+    text-align: center;
+    color: #FFF; 
+    position: absolute;
+    width: 100vw;
+    top: 70%;
+    left: 30%;
+    transform: translateY(-50%);
+    font-family: 'Coming Soon', cursive;
+    
+}
